@@ -8,3 +8,8 @@ yarn.lock
 *.sqlite
 .DS_Store
 Thumbs.db
+
+
+docker-compose.yml
+
+prisma/migrations
