@@ -10,6 +10,7 @@ yarn.lock
 Thumbs.db
 
 
+
 docker-compose.yml
 
 prisma/migrations

@@ -1,8 +1,10 @@
 import { app } from "@/app";
 import "dotenv/config";
+import { env } from "./env";
 
 
-const PORT = 3333;
+
+const PORT = env.PORT;
 
 console.log("DB_link:", process.env.DATABASE_URL);
 
